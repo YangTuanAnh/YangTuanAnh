@@ -1,8 +1,8 @@
 # 💫About Me :
-👋 Hi there! I’m @YangTuanAnh. I grew up in Saigon, Vietnam, currently attending as a freshman in VNU-HCM University of Science in the fall of 2021.<br/>
-🌱 I am passionate about art and design and hope to combine them with my study in Computer Science and Math.<br/>
-💞️ With a background in the Computer Science field and managing student-run organizations, I am currently interested in internship opportunities that will allow me to apply my programming, project management skills, and creative knowledge to the professional sphere. I'm seeking internships and research opportunities in the areas of design, computer science, and project management<br/>
-📫 You can reach me via yangtuananh2003@gmail.com or through Yang Tuấn Anh on LinkedIn. <br/>
+👋 Hello there! My name is @YangTuanAnh. I grew up in Saigon, Vietnam, and will begin my studies at VNU-HCM University of Science in the fall of 2021 as a freshman.<br/>
+🌱 Art and design are two of my greatest passions, and I intend to integrate them with my studies in Computer Science and Math.<br/>
+💞️ In the fields of design, computer science, and project management, I am now looking for internships and research opportunities that will allow me to apply my programming, project management, and creative expertise to the professional sphere. I have a background in Computer Science and have managed student-run groups.<br/>
+📫 You can contact me at yangtuananh2003@gmail.com or on LinkedIn as Yang Tuấn Anh.. <br/>
 https://yangtuananh.notion.site/Curriculum-Vitae-Yang-Tu-n-Anh-2b16ae095d104346b72b6ef39fc15e04 <br/>
 https://yangtuananh.notion.site/Curriculum-Vitae-Yang-Tu-n-Anh-VN-3d520fb2de6d42b7a61d2b25c8430537
 
