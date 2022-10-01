@@ -4,13 +4,8 @@
 💖 I am now looking for internships and research opportunities in the fields of design, computer science, and project management that will allow me to apply my programming, project management, and creative expertise to the professional sphere. I have a background in Computer Science and have managed student-run groups.
 <br/>
 📘 You can contact me at yangtuananh2003@gmail.com or on LinkedIn as **Yang Tuấn Anh**.
-<br/>
-📝 My CV: 
-[English](https://yangtuananh.notion.site/Curriculum-Vitae-Yang-Tu-n-Anh-2b16ae095d104346b72b6ef39fc15e04)
-/
-[Vietnamese](https://yangtuananh.notion.site/Curriculum-Vitae-Yang-Tu-n-Anh-VN-3d520fb2de6d42b7a61d2b25c8430537)
 
-## 🌐 Socials
+# 🌐 Social Media
 <a href="https://www.facebook.com/tuananh.yang.73">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
 </a>
@@ -26,8 +21,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YangTuanAnh&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YangTuanAnh&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YangTuanAnh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
