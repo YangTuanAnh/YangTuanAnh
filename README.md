@@ -1,10 +1,10 @@
-# 💫 About Me :
-👋 I grew up in Ho Chi Minh City, Vietnam, I'm Vietnamese-Taiwanese, and I'm currently a senior at VNUHCM - University of Science. 
+# 💫 About Me 
+I grew up in Ho Chi Minh City, Vietnam, I'm Vietnamese-Taiwanese, and I'm currently a senior at VNUHCM - University of Science. 
 <br/>
-💖 I'm pursuing positions in both industry and academia within Software Engineering and Data Science. My interests include Multimedia Retrieval, Image Understanding, Graph Neural Networks for AI4Sci, and developing robust software systems, alongside a strong focus on MLOps.
+I'm pursuing positions in both industry and academia within Software Engineering and Data Science. My interests include Multimedia Retrieval, Image Understanding, Graph Neural Networks for AI4Sci, and developing robust software systems, alongside a strong focus on MLOps.
 <br/>
-📘 You can contact me at yangtuananh2003@gmail.com or on LinkedIn as **Yang Tuấn Anh**. <br/>
-💻 My website: www.yangtuananh.dev/
+You can contact me at yangtuananh2003@gmail.com or on LinkedIn as **Yang Tuấn Anh**. <br/>
+My website: www.yangtuananh.dev/
 
 # 🌐 Social Media
 <a href="https://www.facebook.com/tuananh.yang.73">
